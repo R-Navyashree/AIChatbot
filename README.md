@@ -16,10 +16,15 @@ This project is a smart AI-powered chatbot designed to help users with home déc
 
 ## Technology Stack  
 
-- **Framework:** [Botpress](https://botpress.com/) (Open-source AI tool)  
-- **Database:** MySQL (for storing orders and user data)  
-- **Frontend:** Webchat Interface (integrated with Botpress)  
-- **Backend:** Node.js for additional customization and integrations  
+- **Framework:** [Botpress](https://botpress.com/) (Open-source AI tool)
+- Published on WebChat
+
+## Workflow
+<div align="left"> <img src="https://github.com/user-attachments/assets/54b115c5-0bf6-49b4-84fb-4b33a686deac" alt="Workflow Diagram" width="360"> </div>
+
+
+## Screenshots
+<div align="left"> <img src="https://github.com/user-attachments/assets/0ca9b38c-3fd5-48d5-918e-e9aaec3a0abc" alt="Chatbot Screenshot 1" width="180" style="margin-right: 100px;"> <img src="https://github.com/user-attachments/assets/eaa68b11-3fc9-4a28-85e8-0c00485357fe" alt="Chatbot ScreenShot 2" width="180"> </div>
 
 
 
